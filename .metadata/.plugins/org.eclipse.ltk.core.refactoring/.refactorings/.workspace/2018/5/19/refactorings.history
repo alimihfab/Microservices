@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spirng-mvc-example&apos; to &apos;spring-mvc-example&apos;" description="Rename resource &apos;spirng-mvc-example&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/spirng-mvc-example" name="spring-mvc-example" stamp="1525950167741" updateReferences="true"/>
+</session>

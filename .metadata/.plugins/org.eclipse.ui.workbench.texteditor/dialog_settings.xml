@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="true" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="cf7856869722cb22"/>
+			<item value="EUR"/>
+			<item value="eur"/>
+			<item value="Discovery"/>
+			<item value="discovery"/>
+			<item value="server"/>
+			<item value="eureka.client.service-url.default-zone=http://localhost:8761/eureka"/>
+			<item value="eureka.client.service-url.default-zone="/>
+			<item value="disc"/>
+			<item value="d"/>
+			<item value="spring-cloud-starter-config&lt;"/>
+			<item value="confi"/>
+			<item value="@FeignClient(name=&quot;currency-exchange-service&quot;)"/>
+			<item value="@FeignClient(name=&quot;currency-exchange-service&quot;, url=&quot;localhost:8000&quot;)"/>
+			<item value="cloud"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="284" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="391" key="DIALOG_HEIGHT"/>
+		<item value="549" key="DIALOG_X_ORIGIN"/>
+		<item value="112" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>
